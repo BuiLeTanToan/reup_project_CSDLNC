@@ -1,0 +1,30 @@
+D:\codetime\csdl_nc\UI_DA1(Xuất Hóa Đơn)\bin\Debug\UI_DA1.exe.config
+D:\codetime\csdl_nc\UI_DA1(Xuất Hóa Đơn)\bin\Debug\UI_DA1.exe
+D:\codetime\csdl_nc\UI_DA1(Xuất Hóa Đơn)\bin\Debug\UI_DA1.pdb
+D:\codetime\csdl_nc\UI_DA1(Xuất Hóa Đơn)\obj\Debug\16_DA1.csproj.AssemblyReference.cache
+D:\codetime\csdl_nc\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.Form1.resources
+D:\codetime\csdl_nc\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.Properties.Resources.resources
+D:\codetime\csdl_nc\UI_DA1(Xuất Hóa Đơn)\obj\Debug\16_DA1.csproj.GenerateResource.cache
+D:\codetime\csdl_nc\UI_DA1(Xuất Hóa Đơn)\obj\Debug\16_DA1.csproj.CoreCompileInputs.cache
+D:\codetime\csdl_nc\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.exe
+D:\codetime\csdl_nc\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.pdb
+D:\codetime\csdl_nc\16_DA1\16_DA1_UI\bin\Debug\UI_DA1.exe.config
+D:\codetime\csdl_nc\16_DA1\16_DA1_UI\bin\Debug\UI_DA1.exe
+D:\codetime\csdl_nc\16_DA1\16_DA1_UI\bin\Debug\UI_DA1.pdb
+D:\codetime\csdl_nc\16_DA1\16_DA1_UI\obj\Debug\16_DA1.csproj.AssemblyReference.cache
+D:\codetime\csdl_nc\16_DA1\16_DA1_UI\obj\Debug\UI_DA1.Form1.resources
+D:\codetime\csdl_nc\16_DA1\16_DA1_UI\obj\Debug\UI_DA1.Properties.Resources.resources
+D:\codetime\csdl_nc\16_DA1\16_DA1_UI\obj\Debug\16_DA1.csproj.GenerateResource.cache
+D:\codetime\csdl_nc\16_DA1\16_DA1_UI\obj\Debug\16_DA1.csproj.CoreCompileInputs.cache
+D:\codetime\csdl_nc\16_DA1\16_DA1_UI\obj\Debug\UI_DA1.exe
+D:\codetime\csdl_nc\16_DA1\16_DA1_UI\obj\Debug\UI_DA1.pdb
+D:\CSDLNC\csdlnc_project_1\1712820\16_DA1_UI\bin\Debug\UI_DA1.exe.config
+D:\CSDLNC\csdlnc_project_1\1712820\16_DA1_UI\bin\Debug\UI_DA1.exe
+D:\CSDLNC\csdlnc_project_1\1712820\16_DA1_UI\bin\Debug\UI_DA1.pdb
+D:\CSDLNC\csdlnc_project_1\1712820\16_DA1_UI\obj\Debug\16_DA1.csprojAssemblyReference.cache
+D:\CSDLNC\csdlnc_project_1\1712820\16_DA1_UI\obj\Debug\UI_DA1.Form1.resources
+D:\CSDLNC\csdlnc_project_1\1712820\16_DA1_UI\obj\Debug\UI_DA1.Properties.Resources.resources
+D:\CSDLNC\csdlnc_project_1\1712820\16_DA1_UI\obj\Debug\16_DA1.csproj.GenerateResource.cache
+D:\CSDLNC\csdlnc_project_1\1712820\16_DA1_UI\obj\Debug\16_DA1.csproj.CoreCompileInputs.cache
+D:\CSDLNC\csdlnc_project_1\1712820\16_DA1_UI\obj\Debug\UI_DA1.exe
+D:\CSDLNC\csdlnc_project_1\1712820\16_DA1_UI\obj\Debug\UI_DA1.pdb

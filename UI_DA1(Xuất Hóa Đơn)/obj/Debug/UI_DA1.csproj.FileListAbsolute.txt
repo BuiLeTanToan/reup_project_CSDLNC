@@ -1,0 +1,32 @@
+D:\codetime\csdl_nc\UI_DA1\bin\Debug\UI_DA1.exe.config
+D:\codetime\csdl_nc\UI_DA1\bin\Debug\UI_DA1.exe
+D:\codetime\csdl_nc\UI_DA1\bin\Debug\UI_DA1.pdb
+D:\codetime\csdl_nc\UI_DA1\obj\Debug\UI_DA1.csproj.AssemblyReference.cache
+D:\codetime\csdl_nc\UI_DA1\obj\Debug\UI_DA1.Form1.resources
+D:\codetime\csdl_nc\UI_DA1\obj\Debug\UI_DA1.Properties.Resources.resources
+D:\codetime\csdl_nc\UI_DA1\obj\Debug\UI_DA1.csproj.GenerateResource.cache
+D:\codetime\csdl_nc\UI_DA1\obj\Debug\UI_DA1.csproj.CoreCompileInputs.cache
+D:\codetime\csdl_nc\UI_DA1\obj\Debug\UI_DA1.exe
+D:\codetime\csdl_nc\UI_DA1\obj\Debug\UI_DA1.pdb
+E:\csdlnc_dh1\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\bin\Debug\UI_DA1.exe.config
+E:\csdlnc_dh1\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\bin\Debug\UI_DA1.exe
+E:\csdlnc_dh1\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\bin\Debug\UI_DA1.pdb
+E:\csdlnc_dh1\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.csprojAssemblyReference.cache
+E:\csdlnc_dh1\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.Form1.resources
+E:\csdlnc_dh1\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.Properties.Resources.resources
+E:\csdlnc_dh1\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.csproj.GenerateResource.cache
+E:\csdlnc_dh1\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.csproj.CoreCompileInputs.cache
+E:\csdlnc_dh1\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.exe
+E:\csdlnc_dh1\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.pdb
+E:\csdlnc_dh1\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.Form2.resources
+C:\Users\Thanh\OneDrive\Desktop\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\bin\Debug\UI_DA1.exe.config
+C:\Users\Thanh\OneDrive\Desktop\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\bin\Debug\UI_DA1.exe
+C:\Users\Thanh\OneDrive\Desktop\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\bin\Debug\UI_DA1.pdb
+C:\Users\Thanh\OneDrive\Desktop\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.csproj.AssemblyReference.cache
+C:\Users\Thanh\OneDrive\Desktop\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.Form1.resources
+C:\Users\Thanh\OneDrive\Desktop\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.Form2.resources
+C:\Users\Thanh\OneDrive\Desktop\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.Properties.Resources.resources
+C:\Users\Thanh\OneDrive\Desktop\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.csproj.GenerateResource.cache
+C:\Users\Thanh\OneDrive\Desktop\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.csproj.CoreCompileInputs.cache
+C:\Users\Thanh\OneDrive\Desktop\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.exe
+C:\Users\Thanh\OneDrive\Desktop\csdlnc_project_1\UI_DA1(Xuất Hóa Đơn)\obj\Debug\UI_DA1.pdb

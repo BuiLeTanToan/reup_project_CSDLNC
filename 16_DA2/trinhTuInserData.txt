@@ -1,0 +1,14 @@
+SanPham
+KhachHang
+ThongTinGiaoHang
+ChiNhanh
+Kho
+KhuyenMai
+KhuyenMaiDaNhan
+PhieuXuatNhapKho
+ChiTietPhieuXuatNhapKho
+ChiTietKho
+NhanVien
+DonHang
+KhieuNai
+Comment ...
